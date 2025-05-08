@@ -1,4 +1,4 @@
-# CatPaintingsMOd
+# CatPaintingsMod
 <h1>Minecraft Java Mod</h1>
 
 <h2>Description</h2>
@@ -6,9 +6,9 @@ This mod adds pictures I pixelated and painted to Minecraft Java version as thei
 <br />
 
 
-<img src="Solstheimite.png" alt="Mineral Example">
+<img src="chesterflower.png" alt="Chester in Flower">
 
-<img src="BlockDemo.png" alt="Block Examples">
+<img src="chester.png" alt="Handsome Chester">
 
 
 <h2>Languages and Utilities Used</h2>
